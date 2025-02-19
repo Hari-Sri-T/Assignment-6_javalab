@@ -13,6 +13,7 @@ public class Main {
         rh.display();
         rh.performQuack();
         rh.performSwim();
+        rh.performFly();
         System.out.println("--------------");
 
 
@@ -21,6 +22,7 @@ public class Main {
         md.display();
         md.performQuack();
         md.performSwim();
+        md.performFly();
         System.out.println("--------------");
     }
 }
